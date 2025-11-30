@@ -19,63 +19,56 @@ The College Placement Portal enables students to manage their placement journey 
     
 *   JWT-based secure session management
     
+## ✨ Key Features
 
-### **2\. Job Management Module**
+### 👨‍🎓 Student Features
+- **Student Registration & Login**  
+  Students can create accounts, log in securely, and access personalized dashboards.
 
-**For Placement Officers**
+- **Apply for Jobs**  
+  Browse available job openings posted by the placement cell and apply instantly.
 
-*   Add new job openings
-    
-*   Update job descriptions & eligibility
-    
-*   Delete/remove job posts
-    
+- **Training Programs**  
+  View available training programs (Aptitude, Communication Skills, Technical Skills) and register.
 
-**For Students**
+- **Placement Roadmaps**  
+  Guided preparation path based on company patterns, rounds, and skill expectations.
 
-*   View available job openings
-    
-*   Apply for jobs
-    
-*   Receive updates/notifications
-    
+- **Counselling & Guidance**  
+  Access mentorship content, previous students’ experiences, and interview tips.
 
-### **3\. Training & Skill Development**
+- **Placement Information**  
+  Know about upcoming company visits, number of rounds, eligibility, and selection process.
 
-*   List of available training programs
-    
-*   Students can register for training sessions
-    
-*   Track training progress
-    
+- **Learning & Preparation Material**  
+  Aptitude, coding, resume building, soft skills, company-specific resources, and more.
 
-### **4\. Placement Roadmaps**
+- **Email Notifications**  
+  Students get email alerts when new jobs or training programs are posted.
 
-*   Complete roadmap for 1st–4th year students
-    
-*   Step-by-step guidance for internship and placement preparation
-    
-*   Timelines, tasks, and skill expectations
-    
+---
 
-### **5\. Counseling & Support**
+### 🧑‍💼 Placement Officer Features
+- **Login for Placement Team**
+- **Add New Job Openings**
+- **Update Job Details**
+- **Delete Job Posts**
+- **Manage Training Programs**
+- **View Student Applications**
+- **Send Notifications & Alerts**
+- **Share Roadmaps and Guidance Materials**
 
-*   Access to counseling guides
-    
-*   One-on-one mentoring (upcoming feature)
-    
+---
 
-### **6\. Preparation Resources**
+## 🏗️ System Overview (Simple)
+This portal connects **students** and **placement officers** on a single platform:
 
-*   Previous students’ interview experiences
-    
-*   Company-wise preparation details
-    
-*   Round structure of companies visiting the campus
-    
-*   Coding, aptitude, and communication preparation material
-    
+1. Placement officer posts job → student receives email → student applies.  
+2. Placement officer posts trainings/guidance → students register & access.  
+3. Students get complete placement-related information in one place.  
+4. Officers can track job postings and manage placement activities.
 
+---
 🏗️ **Tech Stack**
 ------------------
 
