@@ -6,7 +6,10 @@ A full-stack web application designed to simplify and streamline college placeme
 🚀 **Overview**
 ---------------
 
-The College Placement Portal enables students to manage their placement journey and gives placement officers complete administrative control.It includes authentication, authorization, job management, real-time updates, and access to training, guidance, and preparation resources.
+The **College Placement Portal** is a web-based platform designed to simplify and streamline the entire campus placement process.It allows **students** to register, explore job opportunities, apply for roles, access training materials, get guidance, and stay updated about upcoming campus placements.At the same time, **placement officers** can manage job postings, share training resources, send notifications, and support students throughout the placement journey.
+
+This platform brings students and placement teams into one organized system, making the entire placement workflow smooth, transparent, and easy to manage.
+
 
 🧩 **Core Features**
 --------------------
